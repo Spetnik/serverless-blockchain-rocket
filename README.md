@@ -1,5 +1,6 @@
-# Serverless Blockchain Rocket - Going to Mars with Cryptocurrency
+# [Serverless Blockchain Rocket](https://spetnik.github.io/serverless-blockchain-rocket/) - Going to Mars with Cryptocurrency
 Serverless BlockChain Rocket is a serverless blockchain-powered crypto-propulsion system for interplanetary exploration.
+
 
 ## FAQs
 
