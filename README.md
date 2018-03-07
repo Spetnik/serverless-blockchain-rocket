@@ -16,6 +16,12 @@ In theory, yes. The technology is currently in the early development phase. Once
 ### How is it serverless?
 ASICs are not servers.
 
+### What kind of tests will be performed on this rocket?
+Prior to every launch we will have a HODL-down firing of the rocket engines.
+
+### What about the exhaust emissions? Will the rockets emit greenhouse gasses?
+We anticipate the rocket emissions to be very environmentally-friendly. However, in order to counter any carbon emissions, we will plant 100 Merkle Trees in nature reserves worldwide.
+
 ### Where are we going?
 Everywhere! Blockchain Rocket technology is a complete game-changer for the way we look at interplanetary and even interstellar travel. Our pilot flight will be an unmanned mission to lunar orbit, where we hope to establish the first lunar BitCoin wallet.
 
